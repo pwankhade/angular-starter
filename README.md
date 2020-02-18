@@ -1,8 +1,9 @@
 # WebApp
   
- ## Pre-requisite:
+ ### Pre-requisite:
   Make sure the [Flask-api-starter](https://github.com/pwankhade/flask-api-starter) is setup and running on the system. The angular starter application UI uses the API integration to these endpoints
 
+### Setup
   Below are the steps for the starter code setup:
  1. Clone the repository to the local folder and open the folder in the VSCode editor.
  2. Open command prompt in the same directory and run ```ng serve```
